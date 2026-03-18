@@ -1,6 +1,8 @@
 ## Hi there 👋 [Buy me a Coffee](https://buymeacoffee.com/developermayank)
 
 - 🌱 I’m currently learning **Tauri** for _**Cross Platform Application**_. Its wonderful!!!
+- Build Application using **SvelteKit** (Compiler based Javascript Framework)
+- Developed various applications using **Python Django with DRF**
 
 <!--
 **Developermayank/developermayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
