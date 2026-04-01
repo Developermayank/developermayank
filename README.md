@@ -4,6 +4,7 @@
 - Build Application using **SvelteKit** (Compiler based Javascript Framework)
 - Developed various applications using **Python Django with DRF**
 
+---
 ## 🚀 Just Launched: InkPDF!
 
 I'm thrilled to announce the official release of **[InkPDF](https://inkpdf.pages.dev)**! 
@@ -14,7 +15,6 @@ This project was born out of a need for a more intuitive way to handle PDF docum
 - **Tech Stack:** Powered by **Open Source** technologies.
 - **Native Experience:** Fully **PWA-enabled**! Install it on **Android, iOS, or Desktop** in one click. 📲
 
----
 [**🌐 Try InkPDF Now**](https://inkpdf.pages.dev) | [**⭐ Star on GitHub**](https://github.com/developermayank)
 
 | Platform | Experience | Status |
