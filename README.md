@@ -1,8 +1,9 @@
 ## Hi there 👋 [Buy me a Coffee](https://buymeacoffee.com/developermayank)
 
-- 🌱 I’m currently learning **Tauri** for _**Cross Platform Application**_. Its wonderful!!!
+- 🌱 I’m currently mastering **HTMX**, **Alpine.js**, **Django**, **Tauri** for _**Cross Platform Application**_. Its wonderful!!!
 - Build Application using **SvelteKit** (Compiler based Javascript Framework)
-- Developed various applications using **Python Django with DRF**
+- Developed various applications using **Python Django with DRF** and other technologies.
+- Exploring **Rust**
 
 ---
 ## 🚀 Just Launched: InkPDF!
