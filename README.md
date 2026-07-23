@@ -27,6 +27,17 @@ This project was born out of a need for a more intuitive way to handle PDF docum
 > [!NOTE]
 > To install on mobile, just open **[inkpdf.pages.dev](https://inkpdf.pages.dev)** and select **"Add to Home Screen"** from your browser menu.
 
+## 🚀 Django Snippet extension for VS Code
+
+Boost your Django development workflow without leaving VS Code.
+
+### ✨ Features
+
+- 📄 Generate Models, Views, URLs, Templates, Forms, Admin, and more.
+- 🔧 Simplify repetitive Django development tasks.
+
+👉 **Install from the VS Code Marketplace:**  
+[https://marketplace.visualstudio.com/items?itemName=Developermayank.django-vscode](https://marketplace.visualstudio.com/items?itemName=MayankSinghal.django-vscode-mayanksinghal)
 
 <!--
 **Developermayank/developermayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
