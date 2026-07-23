@@ -27,6 +27,7 @@ This project was born out of a need for a more intuitive way to handle PDF docum
 > [!NOTE]
 > To install on mobile, just open **[inkpdf.pages.dev](https://inkpdf.pages.dev)** and select **"Add to Home Screen"** from your browser menu.
 
+---
 ## 🚀 Django Snippet extension for VS Code
 
 Boost your Django development workflow without leaving VS Code.
