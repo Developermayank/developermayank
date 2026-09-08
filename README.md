@@ -36,6 +36,7 @@ Boost your Django development workflow without leaving VS Code.
 
 - 📄 Generate Models, Views, URLs, Templates, Forms, Admin, and more.
 - 🔧 Simplify repetitive Django development tasks.
+- 📃 Built-in Django Documentation directly inside your VS Code editor.
 
 👉 **Install from the VS Code Marketplace:**  
 [https://marketplace.visualstudio.com/items?itemName=Developermayank.django-vscode](https://marketplace.visualstudio.com/items?itemName=MayankSinghal.django-vscode-mayanksinghal)
